@@ -23,11 +23,10 @@ public class Romain {
 	}
 
 	public void recevoirCoup(int forceCoup) {
-		// TODO Auto-generated method stub
-		System.out.println("Le Romain" + nom + "Aie ");
-		while (force >= 1) {
-			force = forceCoup;
-		}
+//		force -= forceCoup
+//		if(){
+//			force = forceCoup;
+//		}
 
 	}
 }
